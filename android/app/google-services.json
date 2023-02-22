@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "68596514875",
+    "project_id": "kokosai-74",
+    "storage_bucket": "kokosai-74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68596514875:android:15dc29c4af124881db1c1e",
+        "android_client_info": {
+          "package_name": "jp.kokosai.kokosai_74_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68596514875-ojei8pqk34ktpcva9nphv4b6mk2veo4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51bieoGVrm_J3LtN8iwJ2rN2vEymmVgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68596514875-ojei8pqk34ktpcva9nphv4b6mk2veo4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68596514875-a4udkujlagoc240nd6p35apgful30lmf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.kokosai.kokosaiApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68596514875:android:22a68904d705767fdb1c1e",
+        "android_client_info": {
+          "package_name": "jp.kokosai.kokosai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68596514875-ojei8pqk34ktpcva9nphv4b6mk2veo4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC51bieoGVrm_J3LtN8iwJ2rN2vEymmVgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68596514875-ojei8pqk34ktpcva9nphv4b6mk2veo4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68596514875-a4udkujlagoc240nd6p35apgful30lmf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.kokosai.kokosaiApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
